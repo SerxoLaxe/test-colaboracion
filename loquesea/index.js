@@ -1,4 +1,3 @@
-const dato = require('./archivo2');
-const bucleAbsurdo = require('./archivoAbsurdo')
+const {dato, datoGuay} = require('./archivo2');
 
-module.exports = {dato, bucleAbsurdo};
+module.exports = {dato, datoGuay};
