@@ -1,4 +1,4 @@
-const {dato, datoGuay} = require("./loquesea");
+const {dato, datoGuay} = require("../loquesea");
 
 console.log('Hola mundo');
-console.log(dato);
+console.log(dato, datoGuay);
