@@ -1,3 +1,3 @@
-const dato = require('./archivo2');
+const {dato, datoGuay} = require('./archivo2');
 
-module.exports = dato;
+module.exports = {dato, datoGuay};
